@@ -1,0 +1,15 @@
+<colors>
+	<color id="tacticalModeBackgroundColor" color="#1b1b1bFF"/>
+	<color id="tacticalModeEvenCellColor" color="#7f7f7fD9"/>
+	<color id="tacticalModeOddCellColor" color="#666666D9"/>
+	<color id="tacticalModeObstacleCellColor" color="#661a1a8C"/>
+	<color id="tacticalModeLineColor" color="#ccccccFF"/>
+	<color id="tacticalModeLineDottedColor" color="#000000FF"/>
+	<color id="semiTacticalModeBackgroundColor" color="#000000FF"/>
+	<color id="semiTacticalModeObstacleCellColor" color="#661a1aD9"/>
+	<color id="semiTacticalModeLineColor" color="#000000B3"/>
+	<color id="semiTacticalModeLineDottedColor" color="#000000B3"/>
+	
+	<!-- <color id="gray50Color" color="#ff0fef"/> chat think bubble-->
+	
+</colors>
