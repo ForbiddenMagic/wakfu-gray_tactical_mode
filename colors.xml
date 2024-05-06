@@ -9,7 +9,4 @@
 	<color id="semiTacticalModeObstacleCellColor" color="#661a1aD9"/>
 	<color id="semiTacticalModeLineColor" color="#000000B3"/>
 	<color id="semiTacticalModeLineDottedColor" color="#000000B3"/>
-	
-	<!-- <color id="gray50Color" color="#ff0fef"/> chat think bubble-->
-	
 </colors>
