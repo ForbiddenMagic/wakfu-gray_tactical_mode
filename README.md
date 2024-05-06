@@ -1,2 +1,2 @@
-Wakfu MMO
+Wakfu MMO 
 Gray Tactical Mode
