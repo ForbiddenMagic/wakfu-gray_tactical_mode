@@ -4,7 +4,7 @@ for Wakfu MMO
 ___
 ### Windows Install:
 - Put "colors.xml" or add its content to:
-- C:\Users\ **USER_NAME** \AppData\Roaming\zaap\gamesLogs\wakfu\themes\ **THEME_NAME** \theme\colors.xml
+- C:\Users\ **! USER_NAME !** \AppData\Roaming\zaap\gamesLogs\wakfu\themes\ **! THEME_NAME !** \theme\colors.xml
 ___
 ### Screenshots:
 --- NEW
