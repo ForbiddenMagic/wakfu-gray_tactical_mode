@@ -1,6 +1,7 @@
 ## Gray Tactical Mode
 
 for Wakfu MMO
+- No problems with glyph visibility. You can see everything fine, even better.
 ___
 ### Windows Install:
 - Put "colors.xml" or add its content to:
